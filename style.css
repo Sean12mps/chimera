@@ -1,0 +1,14 @@
+/*
+Theme Name: Chimera
+Theme URI: http://www.cl0ckw0rks.com
+Author: Twellve
+Author URI: http://www.cl0ckw0rks.com
+Description: none.
+Version: 1.6
+License: GNU General Public License v2 or later
+Text Domain: chimera
+*/
+
+#wpadminbar {
+	display: none;
+}
